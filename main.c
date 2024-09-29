@@ -8,6 +8,8 @@ void start_game(int player);
 bool check_winner(int *moves);
 bool check_move(int move);
 
+// test
+
 int boardArr[9] = {0, 0, 0, 0, 0, 0, 0, 0, 0};
 
 int main() {
